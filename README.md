@@ -5,13 +5,6 @@ Whether it’s solving algorithmic problems, learning new languages, or building
 
 ---
 
-## 📁 Repository Structure
-
-shami/ ├── day01/ │ ├── problem.md │ └── solution.py ├── day02/ │ ├── problem.md │ └── solution.js ├── ... └── README.md
-
-
----
-
 ## 🛠️ Tech Stack
 
 - 👨‍💻 Languages: `Java`, `Python`, `JavaScript`
@@ -20,9 +13,21 @@ shami/ ├── day01/ │ ├── problem.md │ └── solution.py ├�
 - ⚒️ Tools: `VS Code`, `Git`, `GitHub`
 
 ---
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,django,sqlite,postgresql,nodejs,express,git,github,tailwind,figma"/>
-</p>
+
+
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shami700&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shami700&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shami700&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shami700&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
 
 ## 🎯 Goals
