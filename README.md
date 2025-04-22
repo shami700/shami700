@@ -1,16 +1,44 @@
-## Hi there 👋
+# 🧠 Shami – Daily Coding Practice
 
-<!--
-**shami700/shami700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Shami**, my personal coding journal where I document my daily coding adventures! 🚀  
+Whether it’s solving algorithmic problems, learning new languages, or building fun projects — it’s all here.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Repository Structure
+
+shami/ ├── day01/ │ ├── problem.md │ └── solution.py ├── day02/ │ ├── problem.md │ └── solution.js ├── ... └── README.md
+
+
+---
+
+## 🛠️ Tech Stack
+
+- 👨‍💻 Languages: `Java`, `Python`, `JavaScript`
+- 🌐 Web: `HTML`, `CSS`, `React.js`
+- 🧪 Algorithms & Data Structures
+- ⚒️ Tools: `VS Code`, `Git`, `GitHub`
+
+---
+
+## 🎯 Goals
+
+- 🔁 Code daily and build consistency
+- 📚 Master DSA and core concepts
+- ✍️ Write clean, readable, and reusable code
+- 🚧 Experiment with new tech and challenges
+
+---
+
+
+
+
+## 📬 Contact
+
+📧 Mail: [mdshamiarzoo6@gmail.com](mailto:mdshamiarzoo6@gmail.com)  
+📸 Instagram: [@mdshamiarzoo](https://instagram.com/mdshamiarzoo)  
+📧 Linkedin: [www.linkedin.com/in/md-shami-arzoo-4799a6295/](https://www.linkedin.com/in/md-shami-arzoo-4799a6295/) 
+
+---
+
+> 🚀 Keep coding, keep growing — *Consistency is the key!*
