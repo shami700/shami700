@@ -1,4 +1,4 @@
-# 🧠 Shami – Daily Coding Practice
+#  Shami – Daily Coding Practice
 
 Welcome to **Shami**, my personal coding journal where I document my daily coding adventures! 🚀  
 Whether it’s solving algorithmic problems, learning new languages, or building fun projects — it’s all here.
