@@ -53,7 +53,7 @@ Whether it’s solving algorithmic problems, learning new languages, or building
 ## 📬 Contact
 
 📧 Mail: [mdshamiarzoo6@gmail.com](mailto:mdshamiarzoo6@gmail.com)  
-📸 Instagram: [https://www.instagram.com/shami_1105/](SHAMI_1105)  
+📸 Instagram: [https://www.instagram.com/shami_1105/](https://www.instagram.com/shami_1105/)  
 📧 Linkedin: [www.linkedin.com/in/md-shami-arzoo-4799a6295/](https://www.linkedin.com/in/md-shami-arzoo-4799a6295/) 
 
 ---
