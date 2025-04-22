@@ -20,6 +20,10 @@ shami/ ├── day01/ │ ├── problem.md │ └── solution.py ├�
 - ⚒️ Tools: `VS Code`, `Git`, `GitHub`
 
 ---
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,django,sqlite,postgresql,nodejs,express,git,github,tailwind,figma"/>
+</p>
+
 
 ## 🎯 Goals
 
