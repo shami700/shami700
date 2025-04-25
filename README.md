@@ -1,4 +1,4 @@
-#  Shami – Daily Coding Practice
+#  Md Shami Arzoo
 
 Welcome to **Shami**, my personal coding journal where I document my daily coding adventures! 🚀  
 Whether it’s solving algorithmic problems, learning new languages, or building fun projects — it’s all here.
